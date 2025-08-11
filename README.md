@@ -1,16 +1,13 @@
-## Hi there 👋
+# Salom, men Suhrob!
 
-<!--
-**suhrobmadaminov/SuhrobMadaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Men dasturchiman.
 
-Here are some ideas to get you started:
+## 🌟 Men haqimda
+- **Ism**: [Suhrob ]
+- **Joylashuv**: Khorezm Uzbekiston
+- **Qiziqishlar**:  dasturlash, sun'iy intellekt
+- **Texnologiyalar**: Python, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Aloqa
+- **Email**: suhrobmadaminov12@gmail.com
